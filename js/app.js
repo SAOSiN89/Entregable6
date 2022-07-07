@@ -15,8 +15,8 @@ class Cine{
 // crea un array para agregar con las peliculas
 const peliculas = [];
 // creamos las diferentes variantes de peliculas
-peliculas.push(new Cine("Thor", 900, 10));
-peliculas.push(new Cine("Lightyear",980, 5));
+peliculas.push(new Cine("Thor: Love and Thunder", 900, 10));
+peliculas.push(new Cine("Dragon Ball Super: Super Hero",980, 5));
 peliculas.push(new Cine("The Black Phone", 800,20))
 peliculas.push(new Cine("Jurassic World",850, 15))
 console.log(peliculas)
